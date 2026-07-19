@@ -10,7 +10,7 @@ const Navbar = () => {
     { name: 'Specialities', href: '/specialities' },
     { name: 'Treatments', href: '/treatments' },
     { name: 'Testimonials', href: '/testimonials' },
-    { name: 'Blog', href: '/blog' },
+    { name: 'Home Nursing Services', href: '/home-nursing-services' },
     { name: 'Contact', href: '/contact' },
   ];
   return (

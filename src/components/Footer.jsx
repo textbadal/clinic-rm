@@ -62,13 +62,15 @@ const Footer = () => {
                 <div className="mt-0.5 bg-blue-50 text-[#1e3a8a] p-2 rounded-full mr-3">
                   <MapPin size={18} />
                 </div>
-                <span className="leading-relaxed opacity-90">123 Medical Plaza, Health Square, Mumbai, Maharashtra 400001</span>
+                <span className="leading-relaxed opacity-90">MAA Super speciality hospital  Patna gaya Road HORILGANJ JEHANABAD 
+Above SBI MAIN BRANCH 2ND FLOOR.
+PIN- 804408</span>
               </li>
               <li className="flex items-center">
                 <div className="bg-blue-50 text-[#1e3a8a] p-2 rounded-full mr-3">
                   <Phone size={18} />
                 </div>
-                <span className="opacity-90 font-medium">+91 (22) 2345-6789</span>
+                <span className="opacity-90 font-medium">+91 97086 51156</span>
               </li>
               <li className="flex items-center">
                 <div className="bg-blue-50 text-[#1e3a8a] p-2 rounded-full mr-3">

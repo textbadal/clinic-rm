@@ -67,7 +67,7 @@ const About = () => {
           <div className="relative z-10 flex justify-center lg:justify-end mt-12 lg:mt-0">
             <div className="relative rounded-3xl overflow-hidden border-[6px] border-white/20 shadow-2xl max-w-lg w-full">
               <img 
-                src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                src="src/assets/mnisha.jpeg" 
                 alt="Doctor reviewing records" 
                 className="w-full h-[500px] object-cover" />
               <div className="absolute right-4 top-1/2 -translate-y-1/2 bg-[#1a1b26] text-white p-3 rounded-xl shadow-xl">

@@ -11,6 +11,8 @@ import Testimonials from './pages/Testimonials';
 import Blog from './pages/Blog';
 import Contact from './pages/Contact';
 import BookAppointment from './pages/BookAppointment';
+import HomeNursingServices from './pages/home-nursing-services';
+import TeleConsultation from './pages/TeleConsultation';
 
 function App() {
   return (
@@ -28,6 +30,8 @@ function App() {
             <Route path="/blog" element={<Blog />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/book-appointment" element={<BookAppointment />} />
+            <Route path="/home-nursing-services" element={<HomeNursingServices />} />
+            <Route path="/TeleConsultation" element={<TeleConsultation />} />
           </Routes>
         </div>
         <Footer />

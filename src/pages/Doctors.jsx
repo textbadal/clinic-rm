@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import mmImg from '../assets/mm.jpeg';
+import mmImg from '../assets/rajesh.jpeg';
 import mnishaImg from '../assets/mnisha.jpeg';
 import { 
   Users, ShieldCheck, HeartPulse, Clock, ArrowRight 
@@ -56,7 +56,7 @@ const Doctors = () => {
           <div className="relative z-10 flex justify-center lg:justify-end mt-12 lg:mt-0">
             <div className="relative rounded-3xl overflow-hidden border-[6px] border-white shadow-2xl max-w-md w-full">
               <img 
-                src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                src="src/assets/rajesh.jpeg" 
                 alt="Doctor smiling" 
                 className="w-full h-[400px] object-cover"
               />
@@ -83,7 +83,7 @@ const Doctors = () => {
                   <div className="inline-flex bg-teal-50 text-[#2dd4bf] px-3 py-1 rounded-full text-[9px] font-extrabold uppercase tracking-wider mb-3 w-max">
                     Urologist
                   </div>
-                  <h3 className="text-2xl font-extrabold text-[#1a1b26] mb-3">Dr.Manisha</h3>
+                  <h3 className="text-2xl font-extrabold text-[#1a1b26] mb-3">Dr.Rajesh</h3>
                   <p className="text-gray-500 text-[11px] leading-relaxed font-bold mb-6">
                     Experienced in diagnosing and treating kidney stones, urinary tract disorders, prostate conditions, and other urological problems with a patient-first approach. Over 15 years of clinical excellence.
                   </p>
